@@ -7,3 +7,8 @@ u dont want to know
 sasa the ones ulizonionesha ndo the changes or sijakuelewa
 they area called the commit messages, same thing. so yeah. so me too, idk what to write, whatever pops up , i write and push
 ahaaaaaa sawa 
+hapo it doesnt overwirte the og
+it depends, which file you changed
+so kama rn, its j this new me n you txt file, so index.html (with all the code) is never affected
+sasa what is affected then like where will the changes be visble
+just click io push origin
