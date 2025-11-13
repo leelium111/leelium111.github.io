@@ -21,3 +21,12 @@ rnee
 tulia, so you see now, there are new changes, because github always listens and compares 
 aya do the steps again, put a message, the push origin nikisha push origin nitulie
 just do it
+now open your github
+
+so now we are going to edit, index, you'll see how changes will be reflected
+1. usiogope
+2. kama una swal uliza onionesha
+we go?? sawa
+
+aya, it works the same for functions too
+chochote, just any change. so now try committing
